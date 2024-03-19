@@ -1,0 +1,14 @@
+
+1. Convert PDF to Images
+	Script: convert-pdf-to-image.py
+	Output: invoice-templates-images
+2. POCR all images and create single json file
+	Script: dataset-paddleOCR-to-LabelStudio.py
+	Output: pocr-label-studio_input_file.json
+3. Import Json into Label Studio.
+4. Assign variables to fields/regions in meta
+5. Export LS as json file
+6. Create individual master template files from LS exported json.
+	Script: create-master-from-LS-export.py
+	Output: "master_templates" folder
+7. 

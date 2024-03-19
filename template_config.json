@@ -1,0 +1,124 @@
+[
+  {
+    "name":"Adani Commercial HT II",
+    "keywords":[
+          {"key":"adani", "required": true, "box":{"x":3.715670436187399,"y":1.6524216524216524,"width":7.754442649434572,"height":2.2222222222222223}},
+          {"key":"COMMERCIAL", "required": true, "box":{"x":39.17609046849758,"y":3.4188034188034186,"width":8.319870759289175,"height":1.0826210826210827}},
+          {"key":"HT II", "required": true, "box":{"x":36.42972536348948,"y":11.794871794871773,"width":5.217422472544567,"height":1.1396011396011383}}
+      ],
+    "pages":[
+      "Adani_Commercial_HT_II_page_1.json",
+      "Adani_Commercial_HT_II_page_2.json"
+    ]
+  },
+  {
+      "name":"Adani Commercial LT II C",
+      "keywords":[
+            {"key":"adani", "required": true, "box":{"x":3.715670436187399,"y":1.6524216524216524,"width":7.754442649434572,"height":2.2222222222222223}},
+            {"key":"COMMERCIAL", "required": true, "box":{"x":39.17609046849758,"y":3.4188034188034186,"width":8.319870759289175,"height":1.0826210826210827}},
+            {"key":"LT II (C)", "required": true, "box":{"x":36.42972536348946,"y":11.794871794871773,"width":7.8361211308640595,"height":1.139601139601139}}
+        ],
+      "pages":[
+        "Adani_Commercial_LT_II_C_page_1.json",
+        "Adani_Commercial_LT_II_C_page_2.json"
+      ]
+  },
+  {
+      "name":"Adani Residential LT I B",
+      "keywords":[
+            {"key":"adani","required": true, "box":{"x":3.717171717171717,"y":1.6528925619834711,"width":7.757575757575758,"height":2.3083499572527786}},
+            {"key":"RESIDENTIAL", "required": true, "box":{"x":39.43434343434343,"y":3.4482758620689653,"width":7.757575757575758,"height":1.0259333143345684}},
+            {"key":"LTI(B)","required": false, "box":{"x":36.44444444444444,"y":11.142775719578227,"width":4.484848484848484,"height":1.139925904816187}},
+            {"key":"LT I (B)","required": false, "box":{"x":36.44444444444444,"y":11.142775719578227,"width":4.484848484848484,"height":1.139925904816187}}
+        ],
+      "pages":[
+        "Adani_Residential_LT_I_B_page_1.json",
+        "Adani_Residential_LT_I_B_page_2.json"
+      ]
+  },
+  {
+      "name":"BEST Commercial LT II C",
+      "keywords":[
+            {"key":"Ward Office Address", "required": true, "box":{"x":77.54032258064517,"y":4.5882017668851525,"width":12.78225806451613,"height":1.0259333143345684}},
+            {"key":"COMMERCIAL", "required": true, "box":{"x":79.4758064516129,"y":20.832145910515816,"width":10.403225806451612,"height":1.0544314619549728}},
+            {"key":": LTII C", "required": true, "box":{"x":79.4758064516129,"y":19.179253348532345,"width":5.645161290322581,"height":1.139925904816187}}
+        ],
+      "pages":[
+        "BEST_Commercial_LT_II_C_page_1.json",
+        "BEST_Commercial_LT_II_C_page_2.json"
+      ]
+  },
+  {
+      "name":"BEST Residential LT I B",
+      "keywords":[
+            {"key":"Ward Office Address", "required": true, "box":{"x":77.54032258064517,"y":4.5882017668851525,"width":12.943548387096774,"height":1.0259333143345684}},
+            {"key":"RESIDENTIAL", "required": true, "box":{"x":79.59677419354838,"y":20.832145910515816,"width":11.025834059182777,"height":1.139925904816181}},
+            {"key":"LTIB", "required": false, "box":{"x":79.4758064516129,"y":19.179253348532345,"width":5.201612903225806,"height":1.139925904816187}}
+        ],
+      "pages":[
+        "BEST_Residential_LT_I_B_page_1.json",
+        "BEST_Residential_LT_I_B_page_2.json"
+      ]
+  },
+  {
+      "name":"MSEDCL Commercial HT II",
+      "keywords":[
+            {"key":"MAHAVITARAN", "required": true, "box":{"x":4.150453955901427,"y":5.535607420706164,"width":18.763510592304367,"height":2.0646319569120286}},
+            {"key":"Category : COMMERCIAL", "required": true, "box":{"x":29.182879377431906,"y":32.91442250149611,"width":18.28793774319066,"height":1.3464991023339319}},
+            {"key":"158 HT-II", "required": true, "box":{"x":12.19195849546044,"y":30.610412926391383,"width":7.003891050583658,"height":1.1669658886894076}}
+        ],
+      "pages":[
+        "MSEDCL_Commercial_HT_II_page_1.json",
+        "MSEDCL_Commercial_HT_II_page_2.json",
+        "MSEDCL_Commercial_HT_II_page_3.json",
+        "MSEDCL_Commercial_HT_II_page_4.json"
+      ]
+  },
+  {
+      "name":"MSEDCL Commercial LT II A",
+      "keywords":[
+            {"key":"MAHAVITARAN", "required": true, "box":{"x":5.6474384832593785,"y":7.696693272519955,"width":15.167406212182332,"height":1.7958950969213228}},
+            {"key":"LT COMM < 20KW", "required": true, "box":{"x":50.302541347317465,"y":44.697833523375145,"width":12.787414279951593,"height":1.0262257696693273}}
+        ],
+      "pages":[
+        "MSEDCL_Commercial_LT_II_A_page_1.json",
+        "MSEDCL_Commercial_LT_II_A_page_2.json"
+      ]
+  },
+  {
+      "name":"Tata Commercial HT II",
+      "keywords":[
+            {"key":"TATA POWER", "required": true, "box":{"x":78.98039215686275,"y":10.515816471929325,"width":12.784313725490197,"height":1.4534055286406384}},
+            {"key":"COMMERCIAL", "required": true, "box":{"x":70.31372549019608,"y":23.96694214876033,"width":8.823529411764707,"height":1.0259333143345684}},
+            {"key":"Tari CategoryHTII", "required": true, "box":{"x":69.45098039215686,"y":23.026503277286977,"width":15.92156862745098,"height":1.0259333143345684}}
+        ],
+      "pages":[
+        "Tata_Commercial_HT_II_page_1.json",
+        "Tata_Commercial_HT_II_page_2.json"
+      ]
+  },
+  {
+      "name":"Tata Commercial LT II C",
+      "keywords":[
+            {"key":"TATA POWER", "required": true, "box":{"x":82.70161290322581,"y":9.774864633798803,"width":13.588709677419354,"height":1.7668851524650897}},
+            {"key":"COMMERCIAL ABOVE 50 KW", "required": true, "box":{"x":73.34677419354838,"y":24.052436591621543,"width":21.169354838709676,"height":1.139925904816187}},
+            {"key":"Tari Category : LT !(C)", "required": false, "box":{"x":54.75806451612903,"y":23.11199772014819,"width":34.67741935483871,"height":1.3679110857794243}}
+        ],
+      "pages":[
+        "Tata_Commercial_LT_II_C_page_1.json",
+        "Tata_Commercial_LT_II_C_page_2.json"
+      ]
+  },
+  {
+      "name":"Tata Residential LT I B",
+      "keywords":[
+            {"key":"TATA POWER", "required": true, "box":{"x":82.74193548387096,"y":10.11684240524366,"width":13.669354838709678,"height":1.4534055286406384}},
+            {"key":"LT-RESIDENTIAL", "required": true, "box":{"x":73.50806451612904,"y":24.052436591621543,"width":11.330645161290322,"height":1.139925904816187}},
+            {"key":"Tari Category_: LT I (B)", "required": true, "box":{"x":54.75806451612903,"y":23.11199772014819,"width":33.62903225806452,"height":1.3679110857794243}}
+        ],
+      "pages":[
+        "Tata_Residential_LT_I_B_page_1.json",
+        "Tata_Residential_LT_I_B_page_2.json"
+      ]
+  }
+]
